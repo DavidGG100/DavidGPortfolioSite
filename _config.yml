@@ -1,9 +1,0 @@
-# Site settings
-title: David G Portfolio 
-author: David Gadelkarim
-  name: David Gadelkarim
-  email: davidazmy02@gmail.com
-description: "David Gadelkarim Portfolio website"
-
-# Build settings
-remote_theme: jekyll/minima
